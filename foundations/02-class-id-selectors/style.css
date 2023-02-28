@@ -1,0 +1,20 @@
+p {
+   background-color: #f7a2b0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    color: blue;
+    font-size: 36px;
+
+}
+#body {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.body {
+    font-size: 24px;
+}
